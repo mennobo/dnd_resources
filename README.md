@@ -1,6 +1,6 @@
-Index van resources:
+## Index van resources:
 
-Folders en subfolders:
+### Folders en subfolders:
 
 1_skills
 
@@ -13,7 +13,7 @@ Folders en subfolders:
 5_pregen_characters
 
 
-Ideeen Lijst:
+### Ideeen Lijst:
 
 1.	Add other skills
 	-	Alchemy, Herbalism, Potions/Poisons: ![Possible source](https://www.gmbinder.com/share/-L7N3qQqUZNNLIeVT5Zx)
@@ -25,5 +25,5 @@ Ideeen Lijst:
 	-	Tinkering
 
 
-Handige links:
+### Handige links:
 ![class playbooks](https://rpgbot.net/dnd5/characters/classes/)
