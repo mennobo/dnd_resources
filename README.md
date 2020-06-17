@@ -3,9 +3,13 @@ Index van resources:
 Folders en subfolders:
 
 1_skills
+
 2_rand_encounters
+
 3_campaigns
+
 4_dungeons
+
 5_pregen_characters
 
 
