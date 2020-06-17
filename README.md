@@ -9,7 +9,7 @@ Folders en subfolders:
 5. 5_pregen_characters
 
 
-Idea_list:
+Ideeen Lijst:
 
 1.	Add other skills
 	-	Alchemy, Herbalism, Potions/Poisons: ![Possible source](https://www.gmbinder.com/share/-L7N3qQqUZNNLIeVT5Zx)
@@ -20,3 +20,6 @@ Idea_list:
 	-	Add gems to weapons for bonuses?
 	-	Tinkering
 
+
+Handige links:
+![class playbooks](https://rpgbot.net/dnd5/characters/classes/)
