@@ -1,4 +1,5 @@
 A Towerful of Mice
+(based on witcher quest)
 
 Category: Haunted Tower
 Time of day: any

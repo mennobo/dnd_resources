@@ -1,8 +1,8 @@
-Hunting and Herbalism Downtime:
-You spend your free time roaming forests, hunting animals.
+## Hunting and Herbalism Downtime:
+You spend your free time roaming forests, hunting animals. Per 4h roll once on event chart:
 
 
-d20:
+### Event chart (d20):
 
 	1: roll tracks and you are suprised
 	2-4: Scary forest encounter: http://dndspeak.com/2018/11/100-scary-forest-encounters/
@@ -12,8 +12,9 @@ d20:
 	18-19: find hidden cache -> roll individual treasure chart
 	20: find magical item -> roll magic items chart determined by dm
 
-Herbalism:
-roll for herbalism excel sheet. + proficiency bonus * 2
+### Herbalism:
+![Herbalism Excel sheet credit to Flutes Loot](https://www.flutesloot.com/herbalism-in-a-nutshell-5e/)
+Roll for herbalism excel sheet. + proficiency bonus * 2
 Roll nature dc for reward (dc listed in chart)
 
 	1-40: nothing
@@ -25,7 +26,7 @@ Roll nature dc for reward (dc listed in chart)
 	110-119: Golden wand
 	120+: Oiolosse
 
-Wild animals:
+### Wild animals:
 roll d6 + prof bonus - 2 (higher level means shifting encounters)
 
 

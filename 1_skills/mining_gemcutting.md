@@ -6,7 +6,7 @@ TODO:
 3. Add improving weapons with magic gemstones?
 
 ### Mining
-![Mining tables explanation](https://angrygolem-games.com/dwarves-and-mining-2-dd-mining-guide-mine-products/)
+![Mining tables credit to Angry Golem Games](https://angrygolem-games.com/dwarves-and-mining-2-dd-mining-guide-mine-products/)
 
 ![TABLE-1.2-MINE](Mining_tables/TABLE-1.2-MINE-PRODUCTS.png)
 ![TABLE-2.1-STONES](Mining_tables/TABLE-2.1-STONES.png)
