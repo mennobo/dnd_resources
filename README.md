@@ -2,6 +2,8 @@
 
 Most skills are borrowed or improved from other peoples work, I am very grateful for all of their effort and acknowledge them when I use their stuff. 
 
+The goal is to gather nice guides from all over the internet and combine them in an overview that is easy to follow + expand on them.
+
 ### Folders and subfolders:
 
 1_skills
