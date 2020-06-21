@@ -50,13 +50,8 @@ Stone weight (based on mining tables):
 
 	Type			Count	Cost
 	Ornamental		1		1gp
-	Semi precious	2		10gp
+	Semi precious 	2		10gp
 	Fancy			4		20gp
 	Precious		8		50gp
 	Gems			16		100gp
 	Jewels			32		500gp
-
-
-	|a|
-	|-|
-	|1|
