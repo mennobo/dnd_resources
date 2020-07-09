@@ -24,9 +24,10 @@ Per 4h minen [str modifier] keer rollen
 
 ### Gemcutting:
 D20 + mod to see what happens:
-0-8: gem breaks
-9-19: improve worth ([d100]%)
-20+: improve worth \*2 ([d100]%)
+
+	0-8: gem breaks
+	9-19: improve worth ([d100]%)
+	20+: improve worth \*2 ([d100]%)
 
 #### Modifiers
 
